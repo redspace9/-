@@ -1,7 +1,7 @@
 import qrcode
 
 # 생성할 링크
-link = "https://www.example.com"
+link = "https://github.com/redspace9/-/tree/main/asdf"
 
 # QR 코드 생성
 qr = qrcode.QRCode(
